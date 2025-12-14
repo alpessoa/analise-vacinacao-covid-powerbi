@@ -4,7 +4,7 @@ Este projeto consiste em um painel analítico desenvolvido no **Power BI** para 
 
 O objetivo foi transformar dados brutos do Vacinômetro e do IBGE em insights acionáveis sobre o desempenho das campanhas de imunização.
 
-![Print Principal do Dashboard]()
+![Print Principal do Dashboard](https://github.com/alpessoa/analise-vacinacao-covid-powerbi/blob/main/images/Dashboard.png?raw=true)
 
 ## 📊 Visão Geral do Projeto
 
@@ -48,4 +48,4 @@ Como evolução deste projeto para uma abordagem de Ciência de Dados Preditiva,
 - [ ] Criar um modelo de clusterização para agrupar municípios com perfis de vacinação semelhantes.
 
 ---
-*Desenvolvido por André [Seu Sobrenome]*
+*Desenvolvido por André Pessoa*
